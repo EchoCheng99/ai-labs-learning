@@ -25,4 +25,11 @@
 1. **Clone this repository** (克隆仓库)：
    ```bash
    git clone https://github.com/你的用户名/AI-Labs-Learning.git
-
+2. **进入项目文件夹**
+   ```bash
+   cd AI-Labs-Learning
+3. **启动 Jupyter Notebook**
+   ```bash
+   jupyter notebook
+4. **安装依赖（如果有）:**
+使用 requirements.txt 或 Anaconda 环境，安装相关依赖
